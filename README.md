@@ -1,2 +1,2 @@
-# Projetos JS
+# Projetos HTML/CSS/JavaScript
  
